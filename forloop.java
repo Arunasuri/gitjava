@@ -6,6 +6,7 @@ public class forloop {
         for(int x=0;x<=5;x++)
         {
             System.out.println(x);
+            System.out.println("happy day");
         }
     }
 }
