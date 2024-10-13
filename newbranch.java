@@ -4,5 +4,6 @@ public class newbranch {
     public static void main(String args[])
     {
         System.out.println("This is a good day");
+        System.out.println("x path");
     }
 }
